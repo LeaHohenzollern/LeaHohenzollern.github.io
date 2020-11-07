@@ -1,6 +1,13 @@
 <footer id="gal-footer">
     <div class="container">
-        Copyright © 2018 <%= config.author ? config.author : '' %> Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>.&nbsp;Theme by <a href="https://github.com/ZEROKISEKI" target="_blank">AONOSORA</a>
+        &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %>
+    </br>
+        <a href="https://github.com/ZEROKISEKI/hexo-theme-gal" target="_blank">AONOSORA</a>
+        ❤
+        <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </br>
+        <%= __('Powered by') %> 
+        <a href="https://pages.github.com/" target="_blank" rel="nofollow noopener">GitHub Pages</a>
     </div>
 </footer>
 
