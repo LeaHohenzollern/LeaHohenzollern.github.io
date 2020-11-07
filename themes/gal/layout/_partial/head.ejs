@@ -47,6 +47,10 @@
       })
     </script>
     <% } %>
+    
+    <% if (theme.favicon === true){ %>
+      <link href="<%- config.root %>imgs/favicon.ico" rel="icon" type="image/x-ico">
+    <% } %>
     <!--<script type="text/javascript">
       if (document.images) {
         var avatar = new Image();

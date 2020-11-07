@@ -133,6 +133,9 @@ oni_setting:
 # 图片为默认的 source/imgs/oni/oni(1~6).jpg
 # 如果自己替换了不同后缀的图片, 需要在 source/css/_common.css中修改(直接ctrl + F搜oni)
 
+# 是否开启站点图标
+# 站点图标的位置在站点（不是主题）的source/imgs/favicon.ico
+favicon: true # 默认为false
 
 # 输入特效activate-power-mode
 # https://github.com/disjukr/activate-power-mode
