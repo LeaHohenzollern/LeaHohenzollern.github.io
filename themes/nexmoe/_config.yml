@@ -36,13 +36,13 @@ menu:
     - /archives
     - icon-container
   关于博客:
-    - /about.html
+    - about.html
     - icon-info-circle
   我的朋友: 
-    - /PY.html
+    - PY.html
     - icon-unorderedlist
   请我喝茶:
-    - http://afdian.net/@LeaHohenzollerns
+    - https://afdian.net/@LeaHohenzollerns
     - icon-coffee
 
 widgets:
@@ -64,18 +64,18 @@ social:
   知乎:
     - https://www.zhihu.com/people/yu-hao-68-69
     - icon-zhihu
-    - rgb(231, 106, 141)
-    - rgba(231, 106, 141, .15)
+    - rgb(14, 136, 235)
+    - rgba(14, 136, 235, .15)
   豆瓣:
     - 
-    - 
-    - rgb(231, 106, 141)
-    - rgba(231, 106, 141, .15)
+    - icon-douban
+    - rgb(46, 150, 61)
+    - rgba(46, 150, 61, .15)
   轻之文库:
     - 
-    - 
-    - rgb(231, 106, 141)
-    - rgba(231, 106, 141, .15)
+    - icon-linovel
+    - rgb(29, 160, 129)
+    - rgba(29, 160, 129, .15)
   GitHub:
     - https://github.com/LeaHohenzollerns
     - icon-github
