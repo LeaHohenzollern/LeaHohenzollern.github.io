@@ -75,14 +75,12 @@ friend_links:
 # - name：{名称}
 #   link：{链接}
 links:
-  - name: 哔哩哔哩
-    link: 
   - name: 知乎
-    link: 
-  - name: 豆瓣
-    link: 
-  - name: 轻之文库
-    link: 
+    link: https://www.zhihu.com/people/yu-hao-68-69
+  - name: 轻之文库主号
+    link: https://www.linovel.net/user/info?id=1009409
+  - name: 轻之文库副号
+    link: https://www.linovel.net/user/info?id=1067170
   - name: GitHub
     link: https://github.com/LeaHohenzollerns
 
