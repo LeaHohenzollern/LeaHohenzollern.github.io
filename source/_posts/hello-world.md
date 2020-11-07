@@ -4,11 +4,11 @@ title: Hello World
 date: 2020-1-1 00:00:00
 
 tags: 
-- Code,
+- Code
 - Auto Page
 
 categories:
-- [技术, 站点自动化数据]
+- [站点自动化数据]
 
 ---
 
