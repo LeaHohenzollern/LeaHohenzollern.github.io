@@ -8,7 +8,7 @@ xs_bg_image: xsbg.gif
 
 # 必填, 个人头像, 如果是路径, 则指向source/imgs
 # 也可以填http:// OR https:// url地址
-author_image: avatar.jpg
+author_image: avatar.png
 
 # 程序员模式, 适合于用该程序的爱好写技术文章的人员, 默认不开启
 # 选择开启后将会改变article-excerpt, article-content等的显示
@@ -55,7 +55,7 @@ default_preview:
 
 # 侧边栏
 sidebar:
-  recent_comments: true   # 最新评论, 默认关闭, 可能需要自己进行模板配置
+  recent_comments: false   # 最新评论, 默认关闭, 可能需要自己进行模板配置
   hot_posts: true         # 最热文章, 如果配置了下面的文章统计就可以使用该侧边栏, 否则设置为false
   recent_posts: true      # 最新文章, 默认开启
   random_posts: true      # 随机文章, 默认开启
@@ -64,30 +64,34 @@ sidebar:
   links: true             # 个人链接, 默认开启
 
 # 友情链接配置, 要先开启上面的friend_links
+# - name：{名称}
+#   link：{链接}
 friend_links:
-  - name: KDays Forum
-    link: http://kdays.net/days/
-  - name: 绅士导航♂
-    link: http://www.gal123.com/
-  - name: 萌导航
-    link: http://www.moe123.com/
+  - name: 落樱缤纷
+    link: https://sakuraneko.org
+
 
 # 个人链接配置, 要先开启上面的links
+# - name：{名称}
+#   link：{链接}
 links:
-  - name: Github
-    link: https://github.com/ZEROKISEKI/
-  - name: Coding
-    link: https://coding.net/u/SORA1
+  - name: 哔哩哔哩
+    link: 
   - name: 知乎
-    link: https://www.zhihu.com/people/aonosora/activities
-
+    link: 
+  - name: 豆瓣
+    link: 
+  - name: 轻之文库
+    link: 
+  - name: GitHub
+    link: https://github.com/LeaHohenzollerns
 
 # 是否使用公告
 # 公告是什么可以看https://myau.moe
 # 如果使用了公告, 那么公告内容需要自己去配置
 # 在主题下的layout/_partial/issue.ejs进行内容修改
 # 如果不用公告, 请设置此项为false
-use_issue: true
+use_issue: false
 
 # 指定代码高亮风格
 # 目前支持以下选择
@@ -115,7 +119,7 @@ slide_background:
 
 
 # 是否开启欧尼酱功能
-open_oni: false
+open_oni: true
 # 欧尼酱功能设置, 前提为open_oni: true
 oni_setting:
   # 限三项, 可以自己配置链接(一般是上面的menu或者自己的page)
