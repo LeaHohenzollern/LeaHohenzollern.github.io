@@ -57,6 +57,28 @@ prismjs:
   line_number: true
   tab_replace: ''
 
+jsonContent:
+  dateFormat: MM-DD
+  pages:
+    title: true
+    text: true
+    path: true
+    date: true
+    excerpt: true
+    preview: true
+  posts:
+    title: true
+    text: true
+    path: true
+    date: true
+    excerpt: true
+    tags: [{
+        name: tag.name,
+        slug: tag.slug,
+        permalink: tag.permalink
+    }]
+    preview: true
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
