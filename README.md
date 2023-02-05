@@ -1,6 +1,6 @@
-# LeaHohenzollerns.github.io
+# LeaHohenzollern.github.io
 
-[![Build Status](https://travis-ci.com/LeaHohenzollerns/LeaHohenzollerns.github.io.svg?branch=main)](https://travis-ci.com/LeaHohenzollerns/LeaHohenzollerns.github.io)
+[![Build Status](https://travis-ci.com/LeaHohenzollern/LeaHohenzollern.github.io.svg?branch=main)](https://travis-ci.com/LeaHohenzollern/LeaHohenzollern.github.io)
 
 ## 项目概况
 - 内容管理框架：Hexo

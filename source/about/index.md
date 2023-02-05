@@ -14,4 +14,4 @@ date: 2020-11-08
 
 有关galgame剧本的问题可以在知乎开问题邀请，或是走值乎和爱发电。
 
-爱发电地址：https://afdian.net/@LeaHohenzollerns
+爱发电地址：https://afdian.net/@LeaHohenzollern

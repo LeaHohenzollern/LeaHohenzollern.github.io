@@ -7,13 +7,13 @@ title: Leaの故纸堆
 subtitle: '我虽行过死荫的幽谷，也不怕遭害，因你与我同在。'
 description: '一切都是基于ACG的鶸的成长史'
 keywords: galgame, 游戏剧本, galgame剧本, 轻小说
-author: LeahoHenzollerns
+author: LeaHohenzollern
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://leahohenzollerns.github.io/
+url: https://LeaHohenzollern.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
